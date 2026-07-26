@@ -31,7 +31,7 @@ Passionate about transforming raw data into meaningful insights through data ana
 - DAX
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: *(Paste your LinkedIn URL here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/omkar-kurane/
 - 💻 GitHub: https://github.com/DataWithOmkar21
 
 ---
